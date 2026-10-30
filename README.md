@@ -1,18 +1,16 @@
 # Portal·Dex — Explorador interactivo del multiverso
 
-Aplicación web que consulta personajes de [The Rick and Morty API](https://rickandmortyapi.com/documentation), los muestra con imagen y descripción, y permite buscarlos, filtrarlos y guardarlos como favoritos.
+Es una plicación web que consulta personajes de [The Rick and Morty API](https://rickandmortyapi.com/documentation), los muestra con imagen y descripción, y permite buscarlos, filtrarlos y guardarlos como favoritos.
 
-🔗 **Aplicación publicada:** `https://izack1530.github.io/Explorador-del-multiverso/`
+🔗 **Aplicación publicada:** `https://izack1530.github.io/proyecto-web-ia`
 📦 **Repositorio:** `https://github.com/iZack1530/Explorador-del-multiverso`
 
 ## Integrantes
 
 | Integrante | Contribución principal |
 |---|---|
-| _Nombre 1_ | _Estructura HTML y README_ |
-| _Nombre 2_ | _Estilos CSS y diseño responsivo_ |
-| _Nombre 3_ | _Lógica en JavaScript (fetch, búsqueda, filtros)_ |
-| _Nombre 4_ | _Favoritos, modo oscuro/claro y pruebas_ |
+| Abraham Isaac Serrano Pat | Creación del proyecto y repositorio |
+
 
 ## Descripción
 
